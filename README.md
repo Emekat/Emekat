@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌟 Projects
 
-Here is Two non-NDA protected projects I've worked on in the past:
+Here is two non-NDA protected projects I've worked on in the past:
 
 1. **Project 1** - Proof online
 A tool built with the .NET framework and T-SQL, it reduced a week-long, Excel-based workflow to seconds, saving the organisation millions in labour costs. This project not only streamlined operations but also significantly enhanced the department's efficiency and accuracy
