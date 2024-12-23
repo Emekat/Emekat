@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌟 Projects
 
-Here is Two Non-NDA protected projects I've worked on in the past:
+Here is Two non-NDA protected projects I've worked on in the past:
 
 1. **Project 1** - Proof online
 A tool built with the .NET framework and T-SQL, it reduced a week-long, Excel-based workflow to seconds, saving the organisation millions in labour costs. This project not only streamlined operations but also significantly enhanced the department's efficiency and accuracy
@@ -20,7 +20,7 @@ A Kafka Adaptor which served as an interface betwwen Kafka and other Microservic
 
 ## 🚀 About Me
 
-- 💻 I love coding and building innovative solutions, currently working on techier.ca.
+- 💻 I love coding and building innovative solutions, currently working on techier.ca as side project.
 - 🌱 I’m currently learning LLMs, React, React-native, Event streaming with Kafka and Java spring boot, PHP, and Elixir (Phoenix). 
 - 🤝 I'm open to collaborating on exciting projects.
 - 💬 Ask me about Software Development, Database Design, Microservice Design Patterns, Distributed Computing, SaaS Architecture
