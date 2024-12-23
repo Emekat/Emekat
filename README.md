@@ -26,7 +26,7 @@ A Kafka Adaptor which served as an interface betwwen Kafka and other Microservic
 - 💬 Ask me about Software Development, Database Design, Microservice Design Patterns, Distributed Computing, SaaS Architecture
 - 🎓 I'm always looking to improve and share my skills and knowledge.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I won a "Beauty pageant" in Junior High School
+- ⚡ Fun fact: I won a "Mr. School" in Junior High School, yeah, I won an award for most Good-looking
 
 ## 📫 How to Reach Me
 - **Email:** [victortorti1@gmail.com](mailto:victortorti1@gmail.com)
