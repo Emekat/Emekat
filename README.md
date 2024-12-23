@@ -1,4 +1,4 @@
-# Hi there, I'm Emekat! 👋
+# Hi there, I'm Emeka Torti 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a bit more about me:
 
