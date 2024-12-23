@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 
 - 💻 I love coding and building innovative solutions, currently working on techier.ca
-- 🌱 I’m currently learning React, React-native, Event streaming with Kafka and Java spring boot, PHP, Erlang, Elixir (Phoenix) 
+- 🌱 I’m currently learning LLMs, React, React-native, Event streaming with Kafka and Java spring boot, PHP, Erlang, Elixir (Phoenix) 
 - 🤝 I'm open to collaborating on exciting projects.
 - 💬 Ask me about Software Development, Database Design, Microservice Design Patterns, Distributed Computing, SaaS Architecture
 - 🎓 I'm always looking to improve and share my skills and knowledge.
