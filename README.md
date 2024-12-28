@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C#, JavaScript, TypeScript, Java
+- **Languages:** C#, JavaScript, TypeScript, some Java and Python
 - **Frameworks & Libraries:** Very Proficient in .NET, Angular, Node.js, Express 
 - **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GCP, Kafka, Redis
