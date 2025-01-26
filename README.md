@@ -1,4 +1,4 @@
-# Hi there, I'm Emeka Torti
+# Emeka Torti
 
 Welcome to my GitHub profile! Here's a bit more about me:
 
